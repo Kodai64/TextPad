@@ -1,2 +1,2 @@
 # TextPad
-A simple text editor (Python 3.7/Tkinter)
+TextPad is a simple text editor, programmed using Python 3.7 and Tkinter library.
